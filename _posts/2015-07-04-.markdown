@@ -1,0 +1,6 @@
+---
+published: true
+title: تجربة
+layout: post
+---
+تجربة تجربة
